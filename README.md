@@ -1,0 +1,2 @@
+# node-mongodb
+用node做的简单的增删改查操作mongodb数据库的一个小型的demo
